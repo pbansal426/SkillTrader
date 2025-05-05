@@ -1,1 +1,1 @@
-SkillTrade app
+SkillTrader app
