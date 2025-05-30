@@ -1,0 +1,7 @@
+{
+  "name": "skill_trader_frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
