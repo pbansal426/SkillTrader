@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.env
+
+# Django
+*.migrations/
+db.sqlite3
+
+# Node/Vue (to be added later)
+node_modules/
+dist/
+.output/
+.cache/
